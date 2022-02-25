@@ -1,0 +1,27 @@
+{
+  "name": "exercise-1",
+  "version": "1.0.0",
+  "description": "An npm exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "npx prettier 'index.js' --write",
+    "eslint": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pereebi"
+  },
+  "keywords": [
+    "npm",
+    "prettier",
+    "eslint",
+    "node"
+  ],
+  "author": "Pere",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "prettier": "^2.5.1"
+  }
+}
